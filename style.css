@@ -1,0 +1,26 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+img {
+    text-align: center;
+}
+
+h1 {
+    font-size: 33px;
+    font-weight: bolder;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+ul {
+    list-style: circle;
+}
